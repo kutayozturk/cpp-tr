@@ -17,8 +17,8 @@ BÖLÜM 2
 - cout ve cin Komutları
   - Örnekler
 - Mantıksal Operatörler
-   - Öncelikler
--Basit Hesap Makinesi Örneği
+  - Öncelikler
+- Örnek: Basit Hesap Makinesi
 - Soru
   - Cevap
  
